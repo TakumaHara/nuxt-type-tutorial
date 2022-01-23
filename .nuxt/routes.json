@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/takuma/nuxt-type-tutorial/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_65451583"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/takuma/nuxt-type-tutorial/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b5bbc08a"
+  }
+]
